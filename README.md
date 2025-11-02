@@ -7,7 +7,6 @@
 
 - 🔭 Working as a **Junior DevOps Engineer** at **Lockheed Martin**
 - 🌱 Expanding my skills in **Kubernetes**, **Terraform**, and **Cloud Security**
-- 🎓 Pursuing **Bachelor of Science in Information Systems, Cybersecurity** at UT Arlington (Expected 2025)
 - 💼 Open to **DevOps, Cloud Engineering, and DevSecOps** opportunities
 - 📚 Recently earned certifications in **Kubernetes, FinOps, and MongoDB**
 
